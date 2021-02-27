@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaZaawansowane.iml" filepath="$PROJECT_DIR$/.idea/JavaZaawansowane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/r01/r01.iml" filepath="$PROJECT_DIR$/r01/r01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/r02/r02.iml" filepath="$PROJECT_DIR$/r02/r02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/r03/r03.iml" filepath="$PROJECT_DIR$/r03/r03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/r04/r04.iml" filepath="$PROJECT_DIR$/r04/r04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/r05/r05.iml" filepath="$PROJECT_DIR$/r05/r05.iml" />
+    </modules>
+  </component>
+</project>
